@@ -1,11 +1,117 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo</title>
+    <link rel="shortcut icon" href="./src/img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <link rel="stylesheet" href="./src/css/responsivo.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="//use.fontawesome.com/releases/v6.5.1/css/all.css">
+    <title>Portfólio</title>
 </head>
+
 <body>
-    <h1>Lívia Portela Ferreira</h1>
+    <header>
+        <nav>
+            <p class="logo">LPF★</p>
+            <div class="icones">
+                <a href="https://github.com/liviaportela" target="_blank"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/livia-portela-ferreira" target="_blank"><i
+                        class="fa-brands fa-linkedin-in"></i></a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="box">
+            <h1>Técnica em Desenvolvimento de Sistemas</h1>
+            <div class="typing-animation">
+                <p class="text">Encoding the future, as each line tells a story of possibilities ★</p>
+                <div class="cursor"></div>
+            </div>
+        </div>
+    </main>
+
+    <div class="animacao">
+        <img class="gif" src="./src/img/Computador2.gif">
+    </div>
+
+    <section>
+        <div class="apresentacao">
+            <div class="texto-centralizado">
+                <h1>Olá, meu nome é Lívia Portela Ferreira.</h1>
+                <p style="text-align: center;">Comecei minha jornada na programação em 2020, fiz o Ensino Médio integrado ao técnico em
+                    Desenvolvimento de Sistemas na Etec "Dr. Júlio Cardoso", onde desenvolvi alguns projetos e desde
+                    então venho tentando aprender cada vez mais conceitos para aperfeiçoar minhas habilidades.</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="conhecimentos">
+            <div class="frontend">
+                <div class="icone">
+                    <i class="fa-solid fa-code"></i>
+                </div>
+                <h2 class="titulo-conhecimentos">Front End</h2>
+                <p class="texto-simples">Gosto de criar layouts e torná-los interativos.</p>
+                <span class="subtitulo">Linguagens:</span>
+                <p class="texto-simples">HTML, CSS, JavaScript</p>
+                <span class="subtitulo">Ferramentas:</span>
+                <li class="itens">Figma</li>
+                <li class="itens">GitHub</li>
+                <li class="itens">Netlify</li>
+                <li class="itens">VSCode</li>
+            </div>
+            <div class="backend">
+                <div class="icone">
+                    <i class="fa-solid fa-hashtag"></i>
+                </div>
+                <h2 class="titulo-conhecimentos">Back End</h2>
+                <p class="texto-simples">Adoro construir a base da aplicação e torná-la eficiente nos bastidores.</p>
+                <span class="subtitulo">Linguagens:</span>
+                <p class="texto-simples">Python, Java, C#, PHP, SQL</p>
+                <span class="subtitulo">Ferramentas:</span>
+                <li class="itens">Git</li>
+                <li class="itens">MySQL</li>
+                <li class="itens">SQLyog</li>
+                <li class="itens">VS2022</li>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="trabalhos">
+            <h1 style="margin-bottom: 20px;">Trabalhos Recentes</h1>
+            <p class="texto-simples" style="margin-bottom: 35px;">Esses são alguns dos projetos nos quais eu já trabalhei. Quer ver mais? <a href="https://github.com/liviaportela?tab=repositories" target="_blank">Veja meu GitHub</a></p>
+            <div class="imagens">
+                <div class="fileira1">
+                    <a class="projetos" href="https://github.com/liviaportela/Dailybetes" target="_blank"><img src="./src/img/Logo1.png" class="imagemTr" alt=""></a>
+                    <a class="projetos" href="https://github.com/liviaportela/SitePrettyPaper" target="_blank"><img src="./src/img/Logo2.png" class="imagemTr" alt=""></a>
+                    <a class="projetos" href="https://github.com/liviaportela/Universe-Entertainment" target="_blank"><img src="./src/img/Logo3.png" class="imagemTr" alt=""></a>    
+                </div>
+                <div class="fileira2">
+                    <a class="projetos" href="https://github.com/liviaportela/Projeto-kenzie" target="_blank"><img src="./src/img/Logo4.png" class="imagemTr" alt=""></a>
+                    <a class="projetos" href="https://github.com/liviaportela/Projeto-gta" target="_blank"><img src="./src/img/Logo5.png" class="imagemTr" alt=""></a>
+                    <a class="projetos" href="https://github.com/liviaportela/Desenhos-Animados-V2" target="_blank"><img src="./src/img/Logo6.png" class="imagemTr" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p class="logo" style="margin-bottom: 30px;">LPF★</p>
+        <p class="texto-simples" style="margin-bottom: 45px;">"A arte de programar consiste em organizar e dominar a complexidade."</p>
+        <span>© 2024 Lívia Portela Ferreira</span>
+    </footer>
 </body>
+
 </html>
