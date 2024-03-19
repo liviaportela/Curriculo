@@ -1,100 +1,42 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=182B71&height=120&section=header"/>
 
-# Meu Currículo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Currículo+📱🖥️)](https://git.io/typing-svg)
 
-Um parágrafo da descrição do projeto vai aqui
+</br>
+<div>
+  <strong>🖥️ Currículo</strong>
+</div>
 
-## 🚀 Começando
+<div align="justify">
+Projeto desenvolvido durante o primeiro semestre do curso de Desenvolvimento de Sistemas Multiplataforma na matéria de Desenvolvimento Web I.
+<div>
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+#
+<div align="left"> 
+  <strong>📱 Tela da Landing Page:</strong>
+</div>
+</br>
+<div align="left">  
+   Informações sobre mim
+</div>
+</br>
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+![image](https://github.com/liviaportela/Curriculo/assets/115835353/aeb2203b-9f2c-40b9-8594-3f59e5734cb1)
+![image](https://github.com/liviaportela/Curriculo/assets/115835353/cff7a437-9cb2-4871-a059-38547264012e)
+![image](https://github.com/liviaportela/Curriculo/assets/115835353/993ad200-843b-4c99-9fbb-a44d674c44d7)
+![image](https://github.com/liviaportela/Curriculo/assets/115835353/5bd0e5be-b3a2-47a4-a5d1-caa1d1ed16fe)
 
-### 📋 Pré-requisitos
+#
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+<div align="center">  
+  <strong> 💻 Tecnologias utilizadas: </strong>
+</div>
+<br>
+<table align="center">
+ <tr>
+  <td>HTML</td>
+  <td>CSS</td>
+ </tr>
+</table>
 
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
