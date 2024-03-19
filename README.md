@@ -39,4 +39,4 @@ Projeto desenvolvido durante o primeiro semestre do curso de Desenvolvimento de 
  </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=182B71&height=120&section=footer"/>
