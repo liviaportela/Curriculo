@@ -1,0 +1,246 @@
+@media (max-width: 320px) {
+    .animacao {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto-centralizado {
+        margin: 0;
+    }
+
+    .fileira1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fileira2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projetos {
+        margin: 0 20px 0;
+        width: 95%;
+        height: auto;
+    }
+
+    .imagemTr {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 450px) {
+    .text {
+        visibility: hidden;
+    }
+
+    .cursor {
+        display: none;
+        visibility: hidden;
+    }
+
+    .typing-animation {
+        display: none;
+        visibility: hidden;
+    }
+
+    .animacao {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto-centralizado {
+        margin: 0;
+    }
+
+    .conhecimentos {
+        margin: -12rem 35px 85px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .frontend, .backend {
+        padding: 35px 0;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .frontend {
+        border-bottom: 1px solid #E6ECF8;
+        border-right: none;
+    }
+
+    .fileira1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fileira2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projetos {
+        margin: 0 20px 0;
+        width: 95%;
+        height: auto;
+    }
+
+    .imagemTr {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 650px) {
+    .text {
+        visibility: hidden;
+    }
+
+    .cursor {
+        display: none;
+        visibility: hidden;
+    }
+
+    .typing-animation {
+        display: none;
+        visibility: hidden;
+    }
+
+    .animacao {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto-centralizado {
+        margin: 0;
+    }
+
+    .conhecimentos {
+        margin: -12rem 35px 85px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .frontend, .backend {
+        padding: 35px 0;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .frontend {
+        border-bottom: 1px solid #E6ECF8;
+        border-right: none;
+    }
+
+    .fileira1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fileira2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projetos {
+        margin: 0 20px 0;
+        width: 95%;
+        height: auto;
+    }
+
+    .imagemTr {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 1024px) {
+    .animacao {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto-centralizado {
+        margin: 0;
+    }
+
+    .fileira1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fileira2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projetos {
+        margin: 0 20px 0;
+        width: 95%;
+        height: auto;
+    }
+
+    .imagemTr {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 688px) {
+    .animacao {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .texto-centralizado {
+        margin: 0;
+    }
+
+    .fileira1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fileira2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projetos {
+        margin: 0 20px 0;
+        width: 95%;
+        height: auto;
+    }
+
+    .imagemTr {
+        width: 100%;
+        height: auto;
+    }
+}
