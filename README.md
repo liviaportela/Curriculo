@@ -8,7 +8,7 @@
 </div>
 
 <div align="justify">
-Este site representa meu portfólio online, ele foi desenvolvido como parte do meu percurso no curso de Desenvolvimento de Sistemas Multiplataforma, especificamente durante o primeiro semestre na disciplina de Desenvolvimento Web I.
+Este site representa meu portfólio online. Foi realizado no curso superior de Desenvolvimento de Sistemas Multiplataforma, especificamente durante o primeiro semestre na disciplina de Desenvolvimento Web I.
 </div>
 
 <div align="justify">
