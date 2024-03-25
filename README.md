@@ -1,19 +1,34 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=182B71&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Portfólio+📱🖥️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=182B71&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Portfólio+📱🖥️)](https://git.io/typing-svg)
 
 </br>
 <div>
-  <center><strong>🖥️ Portfólio</strong></center>
+  <h2><strong>🖥️ Portfólio</strong></h2>
 </div>
 
 <div align="justify">
-O site se trata do meu portfólio, esse projeto foi desenvolvido durante o primeiro semestre do curso de Desenvolvimento de Sistemas Multiplataforma na matéria de Desenvolvimento Web I.
+Este site representa meu portfólio online, ele foi desenvolvido como parte do meu percurso no curso de Desenvolvimento de Sistemas Multiplataforma, especificamente durante o primeiro semestre na disciplina de Desenvolvimento Web I.
+</div>
+
+<div align="justify">
+  
+### 📋 Visão Geral
+  
+O objetivo principal deste projeto era criar uma vitrine digital que destacasse minhas habilidades, projetos e experiências profissionais de forma acessível e atraente. Devido à minha experiência prévia na área, priorizei a implementação de um design responsivo para garantir uma experiência de usuário consistente em uma variedade de dispositivos.
 <div>
+</div>
 
 #
 <div align="left"> 
-  <strong>📱 Imagens do projeto:</strong>
+  <strong>Link do projeto: https://liviaportela.netlify.app/</strong>
+</div>
+
+#
+<div align="left"> 
+  
+### 📱 Imagens do projeto:
+
 </div>
 </br>
 
@@ -23,10 +38,6 @@ O site se trata do meu portfólio, esse projeto foi desenvolvido durante o prime
 ![image](https://github.com/liviaportela/Curriculo/assets/115835353/5bd0e5be-b3a2-47a4-a5d1-caa1d1ed16fe)
 
 #
-
-<div align="left"> 
-  <strong>Link do projeto: https://liviaportela.netlify.app/</strong>
-</div>
 
 <div align="center">  
   <strong> 💻 Tecnologias utilizadas: </strong>
