@@ -20,9 +20,8 @@ O objetivo principal deste projeto era criar uma vitrine digital que destacasse 
 </div>
 
 #
-<div align="left"> 
-  <strong>Link do projeto: https://liviaportela.netlify.app/</strong>
-</div>
+
+### 🔗 Link do Projeto: https://liviaportela.netlify.app/
 
 #
 <div align="left"> 
